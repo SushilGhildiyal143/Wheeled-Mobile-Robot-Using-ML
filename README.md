@@ -60,3 +60,103 @@ changed accordingly, output to motors also
 changes.
 
 
+# REFERENCES
+[1] M. A. Putra, E. Pitowarno and A. Risnumawan, "Visual
+servoing line following robot: Camera-based line detecting
+and interpreting," 2017 International Electronics Symposium
+on Engineering Technology and Applications (IES-ETA),
+Surabaya, 2017, pp. 123-128.
+[2] G. Antonelli, S. Chiaverini and G. Fusco, "Experiments of online
+path following under joint limits for an industrial robot
+manipulator," Proceedings of the International Conference on
+Control Applications, Glasgow, UK, 2002, pp. 513-518 vol.1.
+[3] J. Dupuis and M. Parizeau, "Evolving a Vision-Based Line-
+Following Robot Controller," The 3rd Canadian Conference
+on Computer and Robot Vision (CRV'06), 2006, pp. 75-75.doi:
+10.1109/CRV.2006.32
+[4] B. Song, Y. Zhang, J. Cheng and J. Wang, "Path Following
+Control of a Mobile Robot via Line-of-Sight Method," 2010
+Second International Conference on Intelligent Human-
+Machine Systems and Cybernetics, Nanjing, Jiangsu, 2010, pp.
+143-146.
+[5] G. Sonal, P. Raninga and H. Patel, "Design and
+implementation of RGB color line following robot," 2017
+International Conference on Computing Methodologies and
+Communication (ICCMC), Erode, 2017, pp. 442-446.
+[6] K. Krinkin, E. Stotskaya and Y. Stotskiy, "Design and
+implementation Raspberry Pi-based omni-wheel mobile
+robot," 2015 Artificial Intelligence and Natural Language and
+Information Extraction, Social Media and Web Search
+FRUCT Conference (AINL-ISMW FRUCT), St. Petersburg,
+2015, pp. 39-45.
+[7] S. Saha et al., "GPS based smart spy surveillance robotic
+system using Raspberry Pi for security application and remote
+sensing," 2017 8th IEEE Annual Information Technology,
+Electronics and Mobile Communication Conference
+(IEMCON), Vancouver, BC, 2017, pp. 705-709.
+doi: 10.1109/IEMCON.2017.8117239
+[8] M. A. Gulzar, K. Kumar, M. A. Javed and M. Sharif, "Highvoltage
+transmission line inspection robot," 2018
+International Conference on Engineering and Emerging
+Technologies (ICEET), Lahore, Pakistan, 2018, pp. 1-7.
+doi: 10.1109/ICEET1.2018.8338632
+[9] R. Neves and A. C. Matos, "Raspberry PI based stereo vision
+for small size ASVs," 2013 OCEANS - San Diego, San Diego,
+CA, 2013, pp. 1-6.
+doi: 10.23919/OCEANS.2013.6741334
+[10] S. Sruthy and S. N. George, "WiFi enabled home security
+surveillance system using Raspberry Pi and IoT
+module," 2017 IEEE International Conference on Signal
+Processing, Informatics, Communication and Energy Systems
+(SPICES), Kollam, 2017, pp. 1-6.
+doi: 10.1109/SPICES.2017.8091320
+[11] F. T. Espinoza, B. G. Gabriel and M. J. Barros, "Computer
+vision classifier and platform for automatic counting: More
+than cars," 2017 IEEE Second Ecuador Technical Chapters
+Meeting (ETCM), Salinas, 2017, pp. 1-6.
+doi: 10.1109/ETCM.2017.8247454
+[12] M. Dragusu, A. N. Mihalache and R. Solea, "Practical
+applications for robotic arms using image processing," 2012
+16th International Conference on System Theory, Control and
+Computing (ICSTCC), Sinaia, 2012, pp. 1-6.
+[13] N. M. Vaidya and K. L. Boyer, "Stereopsis and image
+registration from extended edge features in the absence of
+camera pose information," Proceedings. 1991 IEEE Computer
+Society Conference on Computer Vision and Pattern
+Recognition, Maui, HI, 1991, pp. 76-82.
+doi: 10.1109/CVPR.1991.139664
+[14] M. D. Kim and J. Ueda, "Real-Time Panoramic Image
+Generation and Motion Deblurring by Using Dynamics-Based
+Robotic Vision," in IEEE/ASME Transactions on
+Mechatronics, vol. 21, no. 3, pp. 1376-1387, June 2016.
+doi: 10.1109/TMECH.2015.2511091
+[15] S. H. Lee, J. Y. Choi, K. N. Plataniotis and Y. M. Ro, "Local
+color vector binary pattern for face recognition," 2011 18th
+IEEE International Conference on Image Processing, Brussels,
+2011, pp. 2997-3000.
+doi: 10.1109/ICIP.2011.6116292
+[16] A.J. Nor'aini, M. H. Ahmad Faris and N. Haryanti, "Image
+reconstruction: A comparison between moment and nonmoment
+based techniques," 2011 IEEE International
+Conference on Computer Applications and Industrial
+Electronics (ICCAIE), Penang, 2011, pp. 361-366.
+doi: 10.1109/ICCAIE.2011.6162161
+[17] T. Ojala, M. Pietikainen and T. Maenpaa, "Multiresolution
+gray-scale and rotation invariant texture classification with
+local binary patterns," in IEEE Transactions on Pattern
+Analysis and Machine Intelligence, vol. 24, no. 7, pp. 971-987,
+Jul 2002.
+doi: 10.1109/TPAMI.2002.1017623
+[18] B. Horan, Z. Najdovski, T. Black, S. Nahavandi and P.
+Crothers, "OzTug mobile robot for manufacturing
+transportation," 2011 IEEE International Conference on
+Systems, Man, and Cybernetics, Anchorage, AK, 2011, pp.
+3554-3560.doi: 10.1109/ICSMC.2011.6084220
+[19] Ignatev, Konstantin & N. Sheludko, V & V. Serykh, E & L.
+Rusyaeva, T. (2017). Application of genetic algorithms in
+adaptive control systems design. 386-388.
+10.1109/SCM.2017.7970593.
+[20] N. Sheludko, Viktor & Vl. Putov, Viktor & D. Stotckaia,
+Anastasiia. (2015). Educational, scientific and innovative
+potential mood of the control systems department in the
+knowledge area of mechatronics & robotics. 11-13.
