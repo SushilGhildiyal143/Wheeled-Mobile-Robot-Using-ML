@@ -1,4 +1,4 @@
-# Control of Wheeled Mobile Robot Using computer vision
+# Control of Wheeled Mobile Robot using Computer Vision
 In today’s developing technology,
 industries are playing important role for the
 betterment of life and society. But in industries
@@ -52,3 +52,11 @@ is positive. After finding the contours the centroid
 of the black line is measured. Therefore, by taking
 centroid as a reference point, the angle is referred as
 positive or negative.
+The detection of path using camera captures is
+shown in image. The bounded rectangle captures
+the blackline in the numbers in red color shows the
+angle between camera and blackline. When angle is
+changed accordingly, output to motors also
+changes.
+
+
